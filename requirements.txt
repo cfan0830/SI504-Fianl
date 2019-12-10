@@ -1,0 +1,9 @@
+This program will require the following libraries
+import secret
+from yelpapi import YelpAPI
+import sqlite3
+import json
+import requests
+import plotly.graph_objects as go
+import numpy as np
+import unittest
